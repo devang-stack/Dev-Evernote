@@ -4,7 +4,7 @@ import EditorComponent from './editor/editor';
 import './App.css';
 import firebase from 'firebase';
 
-// const firebase = require('firebase');
+
 
 class App extends React.Component {
 
